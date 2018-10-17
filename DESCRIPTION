@@ -1,0 +1,13 @@
+Package: VerDi
+Title: Modelling the vertical distribution of aquatic organisms
+Version: 0.1
+Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
+Description: Predicting the vertical distribution of pelagic and semi-pelagic fish and zooplankton. Model approach is based on Evaluation Functions (rule-based systems). Required knowledge concerns the species' habitat preferences represented as environmental factors, i.e. abiotic or biotic parameter thresholds (e.g. water temperature, irradiation, food availability, etc.). Further functions (e.g. modelling underwater light regimes based on remote sensing) are included...
+Depends: R (>= 3.5.1)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Maintainer: Robert Herrmann <robertherrmann@mail.de>
+Author: Robert Herrmann
+RoxygenNote: 6.1.0
+Import: data.table
